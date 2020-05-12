@@ -6,7 +6,7 @@
     "name_es": "Carguero ligero YT-1300 modificado",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "Cargueiro leve YT-1300 modificado",
     "name_fr": "Cargo Léger YT-1300 modifié"
   },
   "3": {
@@ -16,7 +16,7 @@
     "name_es": "Plataforma de ataque clase Víbora Estelar",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "Plataforma de ataque classe StarViper",
     "name_fr": "StarViper"
   },
   "4": {
@@ -26,7 +26,7 @@
     "name_es": "Bombardero Scurrg H-6",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "Bombardeiro Scurrg H-6",
     "name_fr": "Bombardier Scurrg H-6"
   },
   "5": {
@@ -36,7 +36,7 @@
     "name_es": "Carguero ligero YT-2400",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "Transporte YT-2400",
     "name_fr": "Cargo YT-2400"
   },
   "6": {
@@ -46,7 +46,7 @@
     "name_es": "Cañonera Auzituck",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "Nave de ataque Auzituck",
     "name_fr": "Canonnière Auzituck"
   },
   "7": {
@@ -56,7 +56,7 @@
     "name_es": "Caza Kihraxz",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "Caça Kihraxz",
     "name_fr": "Chasseur Kihraxz"
   },
   "8": {
@@ -66,7 +66,7 @@
     "name_es": "Lanzadera clase Sheathipede",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "Sheathipede-Class Shuttle",
     "name_fr": "Navette de classe Sheathipede"
   },
   "9": {
@@ -76,7 +76,7 @@
     "name_es": "Remolcador espacial cuatrimotor",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "Rebocador espacial Quadjumper",
     "name_fr": "Quad jumper"
   },
   "10": {
@@ -86,7 +86,7 @@
     "name_es": "Patrullera clase Firespray",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "Nave de patrulha classe Firespray",
     "name_fr": "Vaisseau de Patrouille de classe Firespray"
   },
   "11": {
@@ -96,7 +96,7 @@
     "name_es": "Caza TIE/ln",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "TIE/ln Fighter",
     "name_fr": "Chasseur TIE/ln"
   },
   "12": {
@@ -106,7 +106,7 @@
     "name_es": "BTL-A4 Ala-Y",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "BTL-A4 Y-Wing",
     "name_fr": "Y-wing BTL-A4"
   },
   "13": {
@@ -116,7 +116,7 @@
     "name_es": "TIE Avanzado x1",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "TIE Advanced x1",
     "name_fr": "TIE Advanced x1"
   },
   "14": {
@@ -126,7 +126,7 @@
     "name_es": "Ala Estelar clase Alfa",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "Star Wing classe Alpha",
     "name_fr": "Star Wing de classe Alpha"
   },
   "15": {
@@ -136,7 +136,7 @@
     "name_es": "UT-60D Ala-U",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "UT-60D U-Wing",
     "name_fr": "U-wing"
   },
   "16": {
@@ -146,7 +146,7 @@
     "name_es": "Fustigador TIE/sk",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "TIE/sk Striker",
     "name_fr": "TIE Striker"
   },
   "17": {
@@ -156,7 +156,7 @@
     "name_es": "A/SF-01 Ala-B",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "A/SF-01 B-Wing",
     "name_fr": "B-wing"
   },
   "18": {
@@ -166,7 +166,7 @@
     "name_es": "Defensor TIE/D",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "TIE/D Defender",
     "name_fr": "Défenseur TIE"
   },
   "19": {
@@ -176,7 +176,7 @@
     "name_es": "Bombardero TIE/sa",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "TIE/sa Bomber",
     "name_fr": "Bombardier TIE"
   },
   "20": {
@@ -186,7 +186,7 @@
     "name_es": "Casticador TIE/ca",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "TIE/ca Punisher",
     "name_fr": "TIE Punisher"
   },
   "21": {
@@ -196,7 +196,7 @@
     "name_es": "Caza de asalto Agresor",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "TIE Aggressor",
     "name_fr": "TIE Aggressor"
   },
   "22": {
@@ -206,7 +206,7 @@
     "name_es": "Caza estelar G-1A",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "Caça estelar G-1A",
     "name_fr": "Chasseur G-1A"
   },
   "23": {
@@ -216,7 +216,7 @@
     "name_es": "Carguero ligero VCX-100",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "Cargueiro leve VCX-100",
     "name_fr": "VCX-100"
   },
   "24": {
@@ -226,7 +226,7 @@
     "name_es": "Carguero ligero YV-666",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "Cargueiro leve YV-666",
     "name_fr": "YV-666"
   },
   "25": {
@@ -236,7 +236,7 @@
     "name_es": "TIE Avanzado v1",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "TIE Advanced v1",
     "name_fr": "TIE Advanced Prototype"
   },
   "26": {
@@ -246,7 +246,7 @@
     "name_es": "Lanzadera T-4A clase Lambda",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "Shuttle classe Lambda",
     "name_fr": "Navette de classe Lambda"
   },
   "27": {
@@ -256,7 +256,7 @@
     "name_es": "TIE/ph Fantasma",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "TIE/ph Phantom",
     "name_fr": "TIE Fantôme"
   },
   "28": {
@@ -266,7 +266,7 @@
     "name_es": "VT-49 Diezmador",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "VT-49 Decimator",
     "name_fr": "Décimateur VT-49"
   },
   "29": {
@@ -276,7 +276,7 @@
     "name_es": "TIE/ag Agresor",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "TIE/ag Aggressor",
     "name_fr": "TIE Agressor"
   },
   "30": {
@@ -286,7 +286,7 @@
     "name_es": "BTL-S8 Ala-K",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "BTL-S8 K-Wing",
     "name_fr": "K-wing"
   },
   "31": {
@@ -296,7 +296,7 @@
     "name_es": "Caza estelar ARC-170",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "Caça estelar ARC-170",
     "name_fr": "ARC-170"
   },
   "32": {
@@ -306,7 +306,7 @@
     "name_es": "Lanzadera de ataque",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "Attack Shuttle",
     "name_fr": "Navette d’Attaque"
   },
   "33": {
@@ -316,7 +316,7 @@
     "name_es": "T-65 Ala-X",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "T-65 X-Wing",
     "name_fr": "X-wing T-65"
   },
   "34": {
@@ -326,7 +326,7 @@
     "name_es": "Carguero ligero HWK-290",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "HWK-290",
     "name_fr": "HWK-290"
   },
   "35": {
@@ -336,7 +336,7 @@
     "name_es": "RZ-1 Ala-A",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "RZ-1 A-Wing",
     "name_fr": "A-wing"
   },
   "36": {
@@ -346,7 +346,7 @@
     "name_es": "Caza Colmillo",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "Fang Fighter",
     "name_fr": "Chasseur Fang"
   },
   "38": {
@@ -356,7 +356,7 @@
     "name_es": "Z-95-AF4 Cazacabezas",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "Z-95-AF4 Headhunter",
     "name_fr": "Chasseur de Têtes Z-95"
   },
   "39": {
@@ -366,7 +366,7 @@
     "name_es": "Caza M12-L Kimogila",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "Caça M12-L Kimogila",
     "name_fr": "Chasseur M12-L Kimogila"
   },
   "40": {
@@ -376,7 +376,7 @@
     "name_es": "Ala-E",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "E-Wing",
     "name_fr": "E-wing"
   },
   "41": {
@@ -386,7 +386,7 @@
     "name_es": "Interceptor TIE/in",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "TIE Interceptor",
     "name_fr": "Intercepteur TIE"
   },
   "42": {
@@ -396,7 +396,7 @@
     "name_es": "Nave de persecución clase Lancero",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "Lancer-Class Pursuit Craft",
     "name_fr": "Vaisseau de poursuite de classe Lancer"
   },
   "43": {
@@ -406,7 +406,7 @@
     "name_es": "Segador TIE",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "TIE Reaper",
     "name_fr": "TIE Reaper"
   },
   "44": {
@@ -416,7 +416,7 @@
     "name_es": "Interceptor M3-A",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "M3-A Interceptor",
     "name_fr": "Intercepteur M3-A"
   },
   "45": {
@@ -426,7 +426,7 @@
     "name_es": "Saltador Maestro 5000",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "JumpMaster 5000",
     "name_fr": "JumpMaster 5000"
   },
   "47": {
@@ -436,7 +436,7 @@
     "name_es": "Carguero ligero YT-1300 personalizado",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "Cargueiro leve YT-1300 personalizado",
     "name_fr": "Cargo léger YT-1300 personnalisé"
   },
   "48": {
@@ -446,7 +446,7 @@
     "name_es": "Nave de escape",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "Escape Craft",
     "name_fr": "Vaisseau de secours"
   },
   "49": {
@@ -456,7 +456,7 @@
     "name_es": "CHANGE ME",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "TIE/PO Fighter",
     "name_fr": "CHANGE ME"
   },
   "50": {
@@ -466,7 +466,7 @@
     "name_es": "CHANGE ME",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "TIE/SF Fighter",
     "name_fr": "CHANGE ME"
   },
   "51": {
@@ -476,7 +476,7 @@
     "name_es": "CHANGE ME",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "Shuttle classe Ípsilon",
     "name_fr": "CHANGE ME"
   },
   "52": {
@@ -486,7 +486,7 @@
     "name_es": "CHANGE ME",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "TIE/VN Silencer",
     "name_fr": "CHANGE ME"
   },
   "53": {
@@ -496,7 +496,7 @@
     "name_es": "CHANGE ME",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "T-70 X-Wing",
     "name_fr": "CHANGE ME"
   },
   "54": {
@@ -506,7 +506,7 @@
     "name_es": "CHANGE ME",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "RZ-2 A-Wing",
     "name_fr": "CHANGE ME"
   },
   "55": {
@@ -516,7 +516,7 @@
     "name_es": "CHANGE ME",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "MG-100 StarFortress",
     "name_fr": "CHANGE ME"
   },
   "56": {
@@ -526,7 +526,7 @@
     "name_es": "CHANGE ME",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "TIE da Guilda dos Mineradores",
     "name_fr": "CHANGE ME"
   },
   "57": {
@@ -536,7 +536,7 @@
     "name_es": "CHANGE ME",
     "name_it": "CHANGE ME",
     "name_pl": "CHANGE ME",
-    "name_pt": "CHANGE ME",
+    "name_pt": "Scavenged YT-1300",
     "name_fr": "CHANGE ME"
   }
 }
